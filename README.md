@@ -80,13 +80,9 @@ docker run -v <YOUR-LOCAL-PATH>/Dockerfile:/docf-sec-check/Dockerfile osmankande
 ```
 from docfchecker import DocFChecker
 
-#SCAN
-
-DocFChecker(["Dockerfile"]) 
-
 #Dockerfile is your file PATH.
 
-
+DocFChecker(["Dockerfile"]) 
 
 ```
 
