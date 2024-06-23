@@ -1,7 +1,7 @@
 
 ## Terms of Use
 
-- It can be used by public or private company employee. Application is free to use.
+- It can be used by public or private company servants. Application is free to use.
 
 
 ## Issue Reporting
