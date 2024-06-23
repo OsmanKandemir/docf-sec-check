@@ -1,3 +1,4 @@
+- [ ] Detecting the Dockerfile correctly.
 - [ ] Two level security notification in Dockerfile.
 - [ ] Security noticification in Docker images.
 - [ ] *********** (Private Repository)
