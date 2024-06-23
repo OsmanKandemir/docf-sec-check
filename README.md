@@ -82,7 +82,11 @@ from docfchecker import DocFChecker
 
 #SCAN
 
-DocFChecker(["Dockerfile"])
+DocFChecker(["Dockerfile"]) 
+
+#Dockerfile is your file PATH.
+
+
 
 ```
 
