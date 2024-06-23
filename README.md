@@ -50,7 +50,7 @@ pip install docfseccheck
 
 ### From Dockerfile
 
-You can run this application on a container after build a Dockerfile. You need to specify a path (<YOUR-LOCAL-PATH>) to scan the Dockerfile in your local.
+You can run this application on a container after build a Dockerfile. You need to specify a path (YOUR-LOCAL-PATH>) to scan the Dockerfile in your local.
 
 ```
 docker build -t docfseccheck .
