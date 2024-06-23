@@ -23,7 +23,7 @@ DockF-Sec-Check helps to make you Dockerfile commands more secure.
 - [x] First level security notification in Dockerfile.
 
 ## TODO List
-
+- [ ] Detecting the Dockerfile correctly.
 - [ ] Two level security notification in Dockerfile.
 - [ ] Security noticification in Docker images.
 - [ ] *********** (Private Repository)
@@ -77,10 +77,11 @@ docker run osmankandemir/docfseccheck:v1.0 -f Dockerfile
 #### Function Usage
 
 ```
-from docf-checker import DocFChecker
+from docfchecker import DocFChecker
 
 #SCAN
-DocFChecker("Dockerfile")
+
+DocFChecker(["Dockerfile"])
 
 ```
 

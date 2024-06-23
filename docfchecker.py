@@ -55,7 +55,7 @@ class DocFCheckerClass:
 
     def __init__(self,file) -> None:
 
-        self.file_:str = file
+        self.file_:list = file
 
     def OpenFile(self) -> None:
         try:
