@@ -23,7 +23,7 @@ DockF-Sec-Check helps to make you Dockerfile commands more secure.
 - [x] First level security notification in Dockerfile.
 
 ## TODO List
-- [ ] Detecting the Dockerfile correctly.
+- [ ] To detect the Dockerfile file correctly.
 - [ ] Two level security notification in Dockerfile.
 - [ ] Security noticification in Docker images.
 - [ ] *********** (Private Repository)
@@ -43,7 +43,7 @@ python setup.py install
 
 ### From Pypi
 
-The script is [available on PyPI](https://pypi.org/project/docfseccheck/). To install with pip:
+The application is [available on PyPI](https://pypi.org/project/docfseccheck/). To install with pip:
 ```
 pip install docfseccheck
 ```

@@ -10,4 +10,4 @@ RUN /usr/local/bin/python -m pip install --upgrade pip
 RUN pip --no-cache-dir install -r requirements.txt
 ENTRYPOINT ["python", "docfchecker.py"]
 
-#docker run docfseccheck -f Dockerfile
+#docker run -v <YOUR-LOCAL-PATH>/Dockerfile:/docf-sec-check/Dockerfile docfseccheck -f /docf-sec-check/Dockerfile
