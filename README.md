@@ -11,7 +11,7 @@
 
 ## Description
 
-DockF-Sec-Check helps to make your Dockerfile commands more secure.
+DocF-Sec-Check helps to make your Dockerfile commands more secure.
 
 
 ## ScreenShot
